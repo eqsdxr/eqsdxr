@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @eqsdxr
-- I'm a student
-<!---
-- 👀 I’m interested in **Backend** and **Biomedical Engineering**
-- 🌱 I’m currently learning **Computer Science**, **Backend**, **Science** and **English**
-- 💞️ I’m looking to collaborate on **English practice**
-- 📫 How to reach me **rxdsqe@gmail.com**
+- 👋 Hi, I’m @eqsdxr, I'm a student.
+- 👀I'm interested in **Backend**.
+- 🌱 I’m currently learning **DSA**, **Django**, **Calculus** and **Networking**
 - 😄 Pronouns: he/him
+- 📫 How to reach me **rxdsqe@gmail.com**
+
+<!---
+- 💞️ I’m looking to collaborate on **English practice**
 - ⚡ Fun fact: I like to t --->
 
 <!---
