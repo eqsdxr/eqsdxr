@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eqsdxr, I'm a student.
 - 👀 I'm interested in **Backend**.
-- 🌱 I’m currently learning **DSA**, **Django**, **Calculus** and **Networking**
+- 🌱 I’m currently learning **DSA**, **Django**, **Calculus 1** and **Networking**
 - 😄 Pronouns: he/him
 - 📫 How to reach me **rxdsqe@gmail.com**
 
