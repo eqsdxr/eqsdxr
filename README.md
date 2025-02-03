@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eqsdxr, I'm a student.
 - 👀 I'm interested in contributing to **open source** projects.
-- 🌱 I’m currently learning **data structures and algorithms**, **rust**, **FastAPI**, **React** and **calculus 1**.
+- 🌱 I’m currently learning **data structures and algorithms**, **C**, **FastAPI**, and **calculus 1**.
 - 😄 Pronouns: he/him.
 - 📫 How to reach me **rxdsqe@gmail.com**.
 
