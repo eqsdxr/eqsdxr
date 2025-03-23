@@ -1,1 +1,1 @@
-A student.
+A student. Open to offers.
